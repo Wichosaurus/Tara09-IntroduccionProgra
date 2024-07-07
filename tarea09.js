@@ -1,6 +1,6 @@
 const enemigos = [
-    { name: 'EnemyX', distance: 10 },
-    { name: 'EnemyY', distance: 10 },
+    { name: 'EnemyA', distance: 10 },
+    { name: 'EnemyB', distance: 20 },
 ];
 
 function encontrarCercano(enemigos) {
