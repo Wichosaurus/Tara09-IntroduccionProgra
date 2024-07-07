@@ -14,7 +14,7 @@ function encontrarObjetivo(enemigos) {
             if (enemigos[i].distance < objetivo.distance) {
                 objetivo = enemigos[i];
             }
-        }
+        }   
     }
     return objetivo.name;
 }
